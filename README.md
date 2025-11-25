@@ -4,7 +4,7 @@
 
 # Hi, I'm Sai Pavan 👋
 
-### SDET | Automation Engineer | Java & API Testing
+### SDET | Automation Engineer | Java & API Testing | Selenium + Java + TestNG | API Testing (Rest Assured) | CI/CD | Automation Framework Developer
 
 ---
 
